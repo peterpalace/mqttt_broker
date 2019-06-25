@@ -1,0 +1,13 @@
+{
+  "secure_key": "key.pem",
+  "secure_cert": "certificate.pem",
+  "api": {
+    "token": "c5d87617ceefd2d7b44f2915fd3acbd7",
+    "secret_key": "G1V566Zgh5tf"
+  },
+  "redis": {
+    "port": 6379,
+    "db": 10,
+    "host": "localhost"
+  }
+}
